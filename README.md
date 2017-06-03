@@ -29,9 +29,9 @@
 
 }
 
-![image](https://github.com/zhouyangyng/ZYProgressBar/image/000.png)
+![image](https://github.com/zhouyangyng/ZYProgressBar/blob/master/image/000.png)
 
-![image](https://github.com/zhouyangyng/ZYProgressBar/image/111.gif)
+![image](https://github.com/zhouyangyng/ZYProgressBar/blob/master/image/111.png)
 
 
 
