@@ -29,7 +29,9 @@
 
 }
 
- 
+https://github.com/zhouyangyng/ZYProgressBar/image/000.png
+
+https://github.com/zhouyangyng/ZYProgressBar/image/111.gif
 
 
 
