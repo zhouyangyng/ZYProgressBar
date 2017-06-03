@@ -31,7 +31,7 @@
 
 ![image](https://github.com/zhouyangyng/ZYProgressBar/blob/master/image/000.png)
 
-![image](https://github.com/zhouyangyng/ZYProgressBar/blob/master/image/111.png)
+![image](https://github.com/zhouyangyng/ZYProgressBar/blob/master/image/111.gif)
 
 
 
