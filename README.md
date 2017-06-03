@@ -1,5 +1,7 @@
 # ZYProgressBar
 
+使用webView时，为了用户体验，加入进度条，本项目橙色进度条，加在 navigatioonBar上，颜色可以自己改。
+
 使用时，直接把 ProgressBar文件夹 拖入项目中，添加方法可参考 ZYWebViewController.m 文件。
 
 初始化
